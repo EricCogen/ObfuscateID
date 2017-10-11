@@ -1,0 +1,8 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\bin\Debug\ObfuscateID.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\bin\Debug\ObfuscateID.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\UnitTests\obj\Debug\UnitTests.pdb

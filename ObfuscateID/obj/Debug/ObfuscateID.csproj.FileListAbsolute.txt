@@ -1,0 +1,5 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\ObfuscateID\bin\Debug\ObfuscateID.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\ObfuscateID\bin\Debug\ObfuscateID.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\ObfuscateID\obj\Debug\ObfuscateID.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\ObfuscateID\obj\Debug\ObfuscateID.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\ObfuscateID\obj\Debug\ObfuscateID.pdb

@@ -1,0 +1,8 @@
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\bin\Debug\ObfuscateID.dll
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\bin\Debug\ObfuscateID.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\ObfuscateID\TestConsole\obj\Debug\TestConsole.pdb
